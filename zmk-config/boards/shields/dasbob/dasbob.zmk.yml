@@ -7,3 +7,6 @@ url: https://github.com/groooveman/dasbob
 requires: [pro_micro]
 features:
   - keys
+siblings:
+  - dasbob_left
+  - dasbob_right
