@@ -1,6 +1,19 @@
-if SHIELD_CHOCV
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_DASBOB_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "DASBOB"
+	default "rae-dux"
+
+config ZMK_SPLIT_BLE_ROLE_CENTRAL
+	default y
+
+endif
+
+if SHIELD_DASBOB_LEFT || SHIELD_DASBOB_RIGHT
+
+config ZMK_SPLIT
+	default y
 
 endif
