@@ -4,7 +4,7 @@
 if SHIELD_DASBOB_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "rae-dux"
+	default "dasbob"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
