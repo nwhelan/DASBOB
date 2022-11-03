@@ -1,0 +1,9 @@
+
+file_format: "1"
+id: dasbob
+name: DASBOB
+type: shield
+url: https://github.com/groooveman/dasbob
+requires: [nice_nano, nice_nano_v2, elite_c]
+features:
+  - keys
