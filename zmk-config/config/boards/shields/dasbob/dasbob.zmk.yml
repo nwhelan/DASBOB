@@ -5,8 +5,10 @@ name: DASBOB
 type: shield
 url: https://github.com/groooveman/dasbob
 requires: [pro_micro]
+exposes: [i2c_oled]
 features:
   - keys
+  - display
 siblings:
   - dasbob_left
   - dasbob_right
