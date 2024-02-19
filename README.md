@@ -3,27 +3,17 @@
 ![alt text](https://github.com/GroooveBob/DASBOB/blob/main/pic/dasbob.png)
 
 
-36 Key Diodeless Split Choc Keyboard
+36 Key Diodeless Split Choc Keyboard wit a Buzzer 
 
 Firmware:
 
 https://github.com/GroooveBob/DASBOB-qmk
 
+https://codeberg.org/jcowgar/dasbob-36-kmk
 
-OLED is now working
+https://docs.beekeeb.com/dasbob-keyboard (and layout teste pdf)
 
-
-
-also put two jumpers on the board to make the buzzer work
-
-
-Rev 1 first prototype
-
-Rev 1.1 fixed the spacing mistake :D
-
-
-
-Not tested: buzzer, zmk
+Not tested: zmk
 
 special thanks to pcbway for supporting the development
 
